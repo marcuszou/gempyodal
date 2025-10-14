@@ -6,11 +6,11 @@ by Marcus Zou | 14 Oct 2025
 
 ## Intro
 
-This is a project to apply the geo-related open-source apps available in the market to open up an opportunity of building a open-source platform for GeoModelling for energy sector.
+This is a project to apply the open-source resources available in the market to open up an opportunity of building a light-weight platform for GeoModelling in energy sector.
 
-It's a little late? and there are many commercial and free apps in the market.
+== It's too late since there are many commercial and free apps in the market?
 
-No, nothing is late if you power it up and keep it going.
+== No, nothing is late if you power it up and keep it going, even push it to the end.
 
 
 
@@ -19,6 +19,12 @@ No, nothing is late if you power it up and keep it going.
 1- Start up with Python since most of the open-source apps are based on Python;
 
 2- will migrate to Rust platform to archive a stronger and stabler infrastructure.
+
+
+
+> [!NOTE]
+>
+> May modify the structure of this README as needed, without in-advance notice. 
 
 
 
