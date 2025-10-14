@@ -75,13 +75,17 @@ Note: Some advanced functionalities in `GemPy` require PyTorch. For installation
 Here is my config of hardware:
 
 > OS: Windows 11 IoT Enterprise LTSC x86_64
+>
 > Host: Precision 7820 Tower
+>
 > Kernel: WIN32_NT 10.0.26200.6584 (25H2)
+>
 > Shell: PowerShell 7.5.3
-> Terminal: Windows Terminal 1.22.12111.0
-> Terminal Font: FiraMono Nerd Font (10pt)
+>
 > CPU: 2 x Intel(R) Xeon(R) Silver 4116 (48) @ 4.00 GHz
+>
 > GPU 1: NVIDIA Quadro P5000 @ 1.73 GHz (15.85 GiB) [Discrete]
+>
 > GPU 2: NVIDIA Quadro P5000 @ 1.73 GHz (15.85 GiB) [Discrete]
 
 
