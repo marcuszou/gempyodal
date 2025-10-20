@@ -93,7 +93,7 @@ Here is my config of hardware:
 Then Give a try of `pytorch`, which takes quite a while:
 
 ```shell
-pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
 ```
 
 
